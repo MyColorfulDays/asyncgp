@@ -13,11 +13,12 @@ from setuptools import setup
 
 setup(
     name='asyncgp',
-    version='0.2',
+    version='0.2.1',
     description=(
         'An asyncio Greenplum driver'
     ),
     long_description=open('README.md').read(),
+    long_description_content_type="text/markdown",
     classifiers=[
         'Development Status :: 1 - Planning',
         'Framework :: AsyncIO',

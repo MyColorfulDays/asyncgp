@@ -8,7 +8,7 @@ asyncgp requires Python 3.5 or later and add supported for GreenPlum versions 5.
 
 ## Documentation
 
-You can refer to asyncpg document [here](https://magicstack.github.io/asyncpg/current/>`).
+You can refer to asyncpg document [here](https://magicstack.github.io/asyncpg/current/).
 
 
 ## Installation
