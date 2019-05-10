@@ -1,5 +1,4 @@
-asyncgp -- A database interface library based on asyncpg for
-GreenPlum and Python/asyncio
+asyncgp -- A database interface library based on asyncpg for GreenPlum and Python/asyncio
 =======================================================================
 
 **asyncgp** is a database interface library based on asyncpg for
