@@ -17,7 +17,7 @@ setup(
     description=(
         'An asyncio Greenplum driver'
     ),
-    long_description=open('README.rst').read(),
+    long_description=open('README.md').read(),
     classifiers=[
         'Development Status :: 1 - Planning',
         'Framework :: AsyncIO',
