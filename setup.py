@@ -35,7 +35,7 @@ setup(
     ],
     platforms=['macOS', 'POSIX', 'Windows'],
     python_requires='>=3.5.0',
-    author='MyColorfulDays'
+    author='MyColorfulDays',
     author_email='my_colorful_days@163.com',
     url='https://github.com/MyColorfulDays/asyncgp.git',
     license='Apache License, Version 2.0',
