@@ -20,7 +20,9 @@ Installation
 asyncgp is available on PyPI.
 Use pip to install::
 
-    $ pip install asyncgp
+    $ git clone https://github.com/MyColorfulDays/asyncgp.git
+    $ cd asyncgp
+    $ python setup.py install
 
 
 Basic Usage
