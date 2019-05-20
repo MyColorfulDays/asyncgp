@@ -1,8 +1,13 @@
-import asyncpg.exceptions
-from asyncpg.types import *  # NOQA
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
-from .asyncgp import Connection, connect, create_pool, Record
+"""
+File: __init__.py
+Author: Me
+Email: my_colorful_days@163.com
+Github: https://github.com/MyColorfulDays
+Description: __init__.py
+"""
+from .asyncgp import *  # NOQA
 
-
-__all__ = ('connect', 'create_pool', 'Record', 'Connection') + \
-          asyncpg.exceptions.__all__  # NOQA
+__all__ = asyncgp.__all__
