@@ -13,7 +13,7 @@ from setuptools import setup
 
 setup(
     name='asyncgp',
-    version='0.2.1',
+    version='0.2.2',
     description=(
         'An asyncio Greenplum driver'
     ),
@@ -40,6 +40,7 @@ setup(
     author_email='my_colorful_days@163.com',
     url='https://github.com/MyColorfulDays/asyncgp.git',
     license='Apache License, Version 2.0',
+    packages=['asyncgp'],
     install_requires=[
         'asyncpg==0.18.3',
     ]
