@@ -42,6 +42,6 @@ setup(
     license='Apache License, Version 2.0',
     packages=['asyncgp'],
     install_requires=[
-        'asyncpg==0.18.3',
+        'asyncpg==0.21.0',
     ]
 )
